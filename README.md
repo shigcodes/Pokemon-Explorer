@@ -1,6 +1,6 @@
 # Pokemon-Explorer
 
-Pokemon Explorer is a web-based application built with HTML, CSS, and Vue.js that fetches data from the PokeAPI. Users can search for Pokemon by name or ID, view their abilities, characteristics, and types, and navigate between different Pokemon.
+Pokemon Explorer is a web-based application built with HTML, CSS, and Vue.js that fetches data from the PokeAPI. Users can search for Pokemon by name, view their abilities, characteristics, and types, and navigate between different Pokemon.
 
 # Features
 
