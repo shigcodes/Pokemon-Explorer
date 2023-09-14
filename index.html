@@ -204,10 +204,10 @@
               return;
             }
 
-            // Extract the Pokemon name or ID from the search query
+            
             const query = this.searchQuery.toLowerCase().trim();
 
-            // Check if the query is a number (Pokemon ID) or a string (Pokemon name)
+            
             if (!isNaN(query)) {
               this.pokemonIndex = parseInt(query);
             } else {
